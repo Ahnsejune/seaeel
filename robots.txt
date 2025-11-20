@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://바다장어자조금위원회.com//sitemap.xml
